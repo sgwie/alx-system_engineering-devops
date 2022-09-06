@@ -7,3 +7,5 @@ Creates a script that prints hello user, where user is the current Linux user
 Appends /action to PATH
 3-paths
 Counts the number of directories in PATH
+4-global_variables
+Lists all global variables
