@@ -11,3 +11,5 @@ Counts the number of directories in PATH
 Lists all global variables
 6-create_local_variable
 Create a local variable BEST with value School
+7-create_global_variable
+Creates a global variable BEST
