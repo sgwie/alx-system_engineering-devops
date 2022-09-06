@@ -19,3 +19,5 @@ Add 128 to variable from TRUEKNOWLEDGE
 Prints out result of POWER divided by DIVIDE. POWER and DIVIDE are environment variables
 10-love_exponent_breath
 Prints out results of BREATH to the power of LOVE. BREATH and LOVE are environment variables
+11-binary_to_decimal
+Prints out number in base 10 from base 2. The number is stored in the environment variable BINARY
