@@ -21,3 +21,41 @@ Prints out result of POWER divided by DIVIDE. POWER and DIVIDE are environment v
 Prints out results of BREATH to the power of LOVE. BREATH and LOVE are environment variables
 11-binary_to_decimal
 Prints out number in base 10 from base 2. The number is stored in the environment variable BINARY
+12-combinations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prints out all possible combination of letters a-z. Output is one combination per line, alpha ordered and "oo" is not printed.
