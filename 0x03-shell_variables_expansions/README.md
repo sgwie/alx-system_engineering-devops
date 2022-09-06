@@ -9,3 +9,5 @@ Appends /action to PATH
 Counts the number of directories in PATH
 4-global_variables
 Lists all global variables
+6-create_local_variable
+Create a local variable BEST with value School
