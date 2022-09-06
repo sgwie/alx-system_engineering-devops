@@ -5,3 +5,5 @@ Creates an alias with name ls and value rm *
 Creates a script that prints hello user, where user is the current Linux user
 2-file
 Appends /action to PATH
+3-paths
+Counts the number of directories in PATH
