@@ -1,1 +1,5 @@
 Description of what the files do
+0-alias
+Creates an alias with name ls and value rm * 
+1-hello_yo
+Creates a script that prints hello user, where user is the current Linux user
