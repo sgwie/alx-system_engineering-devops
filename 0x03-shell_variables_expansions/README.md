@@ -3,3 +3,5 @@ Description of what the files do
 Creates an alias with name ls and value rm * 
 1-hello_yo
 Creates a script that prints hello user, where user is the current Linux user
+2-file
+Appends /action to PATH
