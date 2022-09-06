@@ -17,3 +17,5 @@ Creates a global variable BEST
 Add 128 to variable from TRUEKNOWLEDGE
 9-divide_and_rule
 Prints out result of POWER divided by DIVIDE. POWER and DIVIDE are environment variables
+10-love_exponent_breath
+Prints out results of BREATH to the power of LOVE. BREATH and LOVE are environment variables
