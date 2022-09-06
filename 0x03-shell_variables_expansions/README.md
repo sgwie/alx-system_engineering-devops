@@ -13,3 +13,5 @@ Lists all global variables
 Create a local variable BEST with value School
 7-create_global_variable
 Creates a global variable BEST
+8-true_knowledge
+Add 128 to variable from TRUEKNOWLEDGE
